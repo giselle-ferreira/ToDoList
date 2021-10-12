@@ -14,13 +14,13 @@
 <br>
 
 >## Website 💻
-+ [ToDo List](https://boxtur-landingpage.netlify.app/)
++ [ToDo List](https://todolist-vjs.netlify.app/)
 
 <br>
 
 >## Layout 🎥
 
-<img src="https://github.com/giselle-ferreira/ToDoList/blob/main/assets/to-do-list.gif" />
+<img src="https://github.com/giselle-ferreira/ToDoList/blob/main/assets/to-do-list-video.gif" />
 
 >
 
